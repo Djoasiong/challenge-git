@@ -1,5 +1,5 @@
 # challenge-git
-Ma liste de course à venir:
+REMOTE
 - chocolat
 - liquide vaisselle
 - shampooing + gel douche
